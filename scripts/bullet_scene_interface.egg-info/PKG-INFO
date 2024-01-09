@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: bullet-scene-interface
+Version: 1.0
+Author: Itamar Mishani
+Author-email: imishani@cmu.edu
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Requires-Dist: pybullet
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: numpngw
+Requires-Dist: screeninfo==0.6.1

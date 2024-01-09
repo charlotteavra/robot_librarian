@@ -1,0 +1,5 @@
+pybullet
+numpy
+scipy
+numpngw
+screeninfo==0.6.1
